@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=SnowyDawn
+Comment=Touchscreen friendly Light theme with Vibrant Color accents and Rounded Corners.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=SnowyDawn
+MetacityTheme=SnowyDawn
+IconTheme=FairyWren - Cyan
+CursorTheme=Adwaita
+ButtonLayout=close,minimize,maximize:
+
